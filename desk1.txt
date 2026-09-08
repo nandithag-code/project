@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 int main()
 {
@@ -5,3 +6,5 @@ int a=10,b=20,c;
 c=a+b;
 printf("the result=%d",c);
 }
+=======
+>>>>>>> f69159f (a)
